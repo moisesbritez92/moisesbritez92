@@ -4,7 +4,7 @@
 **Ingeniero Electricista** | **Full‑Stack & Data**
 
 
-Lidero proyectos de digitalización y analítica en energía eléctrica (ANDE), emprendo con **Vulpes** (delivery y dconsulting), y desarrollo soluciones con **Django/Flutter/AWS/GCP**.
+Lidero proyectos de digitalización y analítica en energía eléctrica (ANDE), emprendo con **Vulpes** (delivery y consulting), y desarrollo soluciones con **Django/Flutter/AWS/GCP**.
 
 
 ---
